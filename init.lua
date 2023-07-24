@@ -1,0 +1,6 @@
+require "sets"
+require "globals"
+require "plugins"
+require "autocmds.packer_config"
+require "autocmds.globals"
+require "autocmds.ginit"
